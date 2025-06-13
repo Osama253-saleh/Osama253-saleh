@@ -1,3 +1,4 @@
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h1 align="center">
@@ -17,7 +18,7 @@
 ---
 
 - 👨‍💻 I'm a beginner **Frontend Developer** with a strong passion for building user-friendly interfaces.
-- 🧠 I've studied **Python** and **JavaScript**, and I'm currently learning more about frontend technologies like **HTML, CSS, and React.js**.
+- 🧠 I've studied **Python** and **JavaScript**, and I'm currently learning more about frontend technologies like **HTML, CSS**, and **React.js**.
 - 🚀 I'm always excited to learn new tools and grow my skills in web development.
 - 🌱 Currently exploring how to build modern, responsive websites.
 - 🎯 My goal is to become a professional Frontend Engineer and contribute to real-world projects.
